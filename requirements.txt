@@ -1,0 +1,10 @@
+pyyaml
+requests
+uvicorn
+fastapi
+huggingface_hub
+omegaconf
+pydantic
+dependency_injector
+bs4
+duckduckgo-search
